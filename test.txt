@@ -1,5 +1,0 @@
-This text file is just created for testing purposes. This file doesn't have any direct relation with the project,
-I'm just testing the push and pull of the code from the remote master branch to the main branch in the github.
-
-Access the website by going to the URL below:-
-https://officialabhinandan.github.io/Tell-me-a-joke/
